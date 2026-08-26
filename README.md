@@ -1,4 +1,7 @@
 # 🌦️ Weather Agent
+## 🌐 Live Demo
+
+🚀 **[Try the Weather Agent](https://pulokesh-weather-agent.streamlit.app/)**
 
 An AI-powered weather assistant built using **LangChain, Google Gemini, and Streamlit**.
 
